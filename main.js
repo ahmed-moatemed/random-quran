@@ -10,9 +10,9 @@ btn.addEventListener('click', () => {
 });
 
 async function getAyah() {
-  const verseNumber = Math.floor(Math.random() * 6236) + 1;
-  const response = await fetch(`http://api.alquran.cloud/v1/ayah/${verseNumber}`);
    try{ 
+    const verseNumber = Math.floor(Math.random() * 6236) + 1;
+    const response = await fetch(`http://api.alquran.cloud/v1/ayah/${verseNumber}`);
     let data = await response.json(); 
 
     ayah.innerHTML = data.data.text;
