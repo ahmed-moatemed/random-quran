@@ -15,9 +15,7 @@
 
 ## 📸 Preview
 
-```
 ![Quran App Screenshot](./qran.png)
-```
 
 ---
 
@@ -55,7 +53,7 @@ Open index.html in your browser
 ```
 
 ---
-
+```
 ## 📝 Notes
 - يحتاج اتصال بالإنترنت لجلب الآيات من الـ API.  
 - يمكن تطوير المشروع بإضافة:
@@ -66,7 +64,7 @@ Open index.html in your browser
   - Dark / Light Mode  
 
 ---
-
+```
 ## ✨ Author
 Developed by **Ahmed Ibrahim Moatemed**  
 📧 Email: matamedahmed@gmail.com  
