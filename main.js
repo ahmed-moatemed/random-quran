@@ -1,5 +1,5 @@
 
-
+// selectors
 const btn = document.querySelector('.click-button');
 const ayah = document.querySelector('.ayah');
 const surah = document.querySelector('.surah');
